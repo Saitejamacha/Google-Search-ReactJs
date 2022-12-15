@@ -1,0 +1,17 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 25vw;
+}
+
+p {
+  color: black;
+  font-size: 20px;
+}
+
+.arrow-icon {
+  width: 25px;
+  height: 25px;
+  align-self: center;
+}
